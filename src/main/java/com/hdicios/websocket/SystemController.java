@@ -14,7 +14,7 @@ import java.util.Map;
 /**
  * @author hdicos
  * @version 1.0
- * @description: TODO
+ * @description: 测试websocket的应用
  * @date 2022/5/5 16:14
  */
 @Controller("web_Scoket_system")
